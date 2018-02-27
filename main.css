@@ -1,0 +1,50 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	
+}
+
+li{ float: left;
+
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+
+h1{
+	font-size: 73px;
+}
+
+body{
+background-color: #E0B0FF;
+}
+h1{
+	font-family: 'Righteous', cursive;
+}
+h2{
+	font-family: 'Nanum Brush Script', cursive;
+}
+p{
+	font-family: 'Nanum Brush Script', cursive;
+}
+h3{
+	font-family: 'Shrikhand', cursive;
+}
+p{
+	font-size: 66px;
+}
+h2{
+	font-size: 100px;
+}
+h3{
+	font-size: 100px;
+}
